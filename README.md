@@ -4,10 +4,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=2500&pause=1000&center=true&vCenter=true&width=600&lines=Data+Science+Enthusiast;Machine+Learning+Explorer;Backend+Developer;Future+Data+Scientist" />
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=lutfiindraa&label=Profile+Views" />
-</p>
-
 ---
 
 ### 🚀 About Me
