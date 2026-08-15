@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=USERNAME&label=Profile+Views" />
+  <img src="https://komarev.com/ghpvc/?username=lutfiindraa&label=Profile+Views" />
 </p>
 
 ---
@@ -30,12 +30,12 @@
 ### 📈 GitHub Analytics
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=lutfiindraa&show_icons=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lutfiindraa&layout=compact" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=USERNAME" />
+  <img src="https://streak-stats.demolab.com?user=lutfiindraa" />
 </p>
 
 ---
