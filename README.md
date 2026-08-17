@@ -69,3 +69,12 @@ Bachelor's degree graduate in Informatics Engineering with a specialization in D
 <div align="center">
 <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="900">
 </div>
+
+
+<picture data-importer="pacman">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lutfiindraa/lutfiindraa/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lutfiindraa/lutfiindraa/pacman-output/pacman-contribution-graph.svg?game=pacman">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/lutfiindraa/lutfiindraa/pacman-output/pacman-contribution-graph.svg?game=pacman">
+</picture>
+
+###
